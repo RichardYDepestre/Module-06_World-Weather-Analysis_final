@@ -9,6 +9,7 @@ We used random coordinates to generate the listing of destinations. We then sele
 3) Onguday	RU	273.31	50.7500	86.1500	Gostinitsa "Motel'"
 4) Kuytun	RU	263.80	54.3419	101.5036	Gostinitsa Tsentral'naya.
 With that information we created an itinerary that spaces across Russia. We also offered tags, to the best of our abilities, to assist them.
+Attachment 1 - [itinerary](https://github.com/RichardYDepestre/World_Weather_Analysis_final)
 Attachment 1 - [revenue and rides per areas](https://github.com/RichardYDepestre/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png).
 Given more time we could have run a model in which we played with fares and showcases the revenues they could have generated. Such a task would have lent more credential to our recommendations. With experience and practice we will get there!
 ## Recommendations to CEO
