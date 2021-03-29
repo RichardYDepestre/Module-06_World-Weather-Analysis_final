@@ -9,6 +9,7 @@ We used random coordinates to generate the listing of destinations. We then sele
 3) Onguday	RU	273.31	50.7500	86.1500	Gostinitsa "Motel'"
 4) Kuytun	RU	263.80	54.3419	101.5036	Gostinitsa Tsentral'naya.
 With that information we created an itinerary that spaces across Russia. We also offered tags, to the best of our abilities, to assist them.
+
 Attachment 1 - [itinerary](https://github.com/RichardYDepestre/World_Weather_Analysis_final/blob/main/WeatherPy_travel_map.png?raw=true)
 
 Attachment 2 - [itinerary with markers](https://github.com/RichardYDepestre/World_Weather_Analysis_final/blob/main/WeatherPy_travel_map_markers.png?raw=true).
